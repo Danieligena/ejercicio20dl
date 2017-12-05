@@ -1,4 +1,4 @@
-Actividad Presencial 2 de Wordpress 2.
+<h1>Actividad Presencial 2 de Wordpress 2.<h1>
 
 https://github.com/DesafioLatam/Blearning-Frontend-E24CP1A1
 
